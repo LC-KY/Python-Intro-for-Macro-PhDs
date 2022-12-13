@@ -1,5 +1,5 @@
-# Python Intro fo Macro PhDs
-PhD Course: 'Introduction to Python', by [Lucas Kyriacou](https://lucaskyriacou.ch), University of Bern, December 2022
+# Python for Macroeconomists
+Introduction into programming with Python for PhD Students and Faculty in Macroeconomics by [Lucas Kyriacou](https://lucaskyriacou.ch), University of Bern, December 2022
 
 # Overview
 Economists rely extensively on data, models and computational methods in order to gain understanding of how the world works, to offer policy advice and forecast the future. Nowadays many applications in research, policy institutions and industry can only be solved numerically on a computer.
